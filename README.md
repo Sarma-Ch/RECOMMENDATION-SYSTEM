@@ -90,4 +90,6 @@ OUTPUT:
 
 1.ratings.csv:
 
+![Image](https://github.com/user-attachments/assets/7069d592-4c0c-46cf-b34f-bfdd3fdeab53)
+
 
