@@ -85,3 +85,9 @@ Dataset: The dataset used for the this program is ml-latest-small the dataset co
 3.ratings.csv contains all the ratings for all the moves
 4.tags.csv contains tags of the movie
 Totally the dataset contains 100,836 entries from ratings.csv and 9,742 entries from movies.csv.
+
+OUTPUT:
+
+1.ratings.csv:
+
+
